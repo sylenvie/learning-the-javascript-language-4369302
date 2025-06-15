@@ -5,7 +5,7 @@
   "author": "Joe Chellman",
   "license": "ISC",
   "dependencies": {
-    "prettier": "^2.8.1",
+    "prettier": "^2.8.8",
     "readline-sync": "^1.4.10"
   }
 }
